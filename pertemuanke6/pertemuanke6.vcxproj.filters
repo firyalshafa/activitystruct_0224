@@ -18,5 +18,8 @@
     <ClCompile Include="pertemuanke6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6-kedua.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
