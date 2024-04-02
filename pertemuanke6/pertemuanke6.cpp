@@ -20,7 +20,8 @@ int main()
     cin >> mhs.nama;
     cout << " alamat mahasiswa :";
     cin >> mhs.alamat;
-
+    cout << " umur mhasiswa :";
+    cin >> mhs.umur;
 }
 
 
