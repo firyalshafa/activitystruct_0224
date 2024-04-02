@@ -24,5 +24,8 @@
     <ClCompile Include="6_ketiga.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6_keempat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
